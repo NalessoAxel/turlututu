@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* HEADER */
+
+header {
+    background-color: #333333;
+    
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;    
+}
+.logo {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 140px;
+}
+
+.login {
+    display: flex;
+    justify-content: flex-end;
+}
+.nav{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.nav ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.fas {    
+    margin-left: 500px;
+    color: white;
+}
+.nav li {
+    margin-left: 24px;
+    font-size: 12px;
+}
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+
+/* MAIN */
+
+.container {
+    background-color: #1E93CC;
+    display: flex;
+    flex-direction: row;
+}
+.img {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 121px;
+    margin-top: 32px;
+    margin-bottom: 50px;
+}
+.big-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 184px;
+}
+.big-logo img {
+    margin-top: 30px;
+    margin-bottom: 18px;
+}
+.big-logo h2 {
+    color: white;
+    font-size: 32px;
+}
+.big-logo button {
+    background-color: #E99001;
+    color: white;
+    padding: 20px;
+    margin-top: 36px;
+    margin-bottom: 50px;
+    border-radius: 14px;
+    border: 2px solid white;
+    font-size: 24px;
+}
+.big-logo a {
+    text-decoration: none;
+    color: white;
+}
