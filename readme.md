@@ -26,4 +26,6 @@ Our goals for this exercie was to reproduce a picture into a single web page!
 No.
 
 ## Preview
-![Preview](https://ibb.co/2yxC9fR)
+![Preview](/Preview.png)
+
+[Pages](https://nalessoaxel.github.io/turlututu/)
