@@ -1,6 +1,6 @@
 # Turlututu Project
 
-- Project made by Axel Nalesso [Github] (https://github.com/NalessoAxel)
+- Project made by Axel Nalesso [Github](https://github.com/NalessoAxel)
 - Date : *04/11/2020*
 
 ## What is it?
@@ -26,4 +26,4 @@ Our goals for this exercie was to reproduce a picture into a single web page!
 No.
 
 ## Preview
-![Preview] (https://ibb.co/2yxC9fR)
+![Preview](https://ibb.co/2yxC9fR)
