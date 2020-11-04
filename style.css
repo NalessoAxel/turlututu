@@ -180,6 +180,14 @@ button.blue {
 button.orange {
     background-color: #E99001;
 }
+button.blue a {
+    text-decoration: none;
+    color: white;
+}
+button.orange a {
+    text-decoration: none;
+    color: white;
+}
 
 /* FOOTER */
 
